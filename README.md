@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Analytics** and **Machine Learning** and have expertise in **Python** and **SQL**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning more about Artificial Intelligence and Data Science.
 
 - 📝 I also write articles on [Medium](https://medium.com/@abdullahimranarshad)
 
