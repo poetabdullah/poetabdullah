@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/AbdulaImran" target="blank"><img src="https://img.shields.io/twitter/follow/AbdulaImran?logo=twitter&style=for-the-badge" alt="abdulaimran" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analytics and Machine Learning**
+- 🔭 I’m currently working on **Data Analytics** and **Machine Learning** and have expertise in **Python** and **SQL**
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@abdullahimranarshad)
+- 📝 I also write articles on [Medium](https://medium.com/@abdullahimranarshad)
 
-- 📫 How to reach me **abdullahimranarshad@gmail.com**
+- 📫 You can reach me at **abdullahimranarshad@gmail.com**
 
 - ⚡ Fun fact **I love to learn about current affairs.**
 
