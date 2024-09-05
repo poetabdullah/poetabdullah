@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/AbdulaImran" target="blank"><img src="https://img.shields.io/twitter/follow/AbdulaImran?logo=twitter&style=for-the-badge" alt="abdulaimran" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analytics** and **Machine Learning** and have expertise in **Python** and **SQL**
+- 🔭 I’m currently working on **Data Analytics** and **Machine Learning** and have expertise in **Python** and **SQL**, while also have some experience in **Web Development** particularly in the frontend.
 
-- 🌱 I’m currently learning more about Artificial Intelligence and Data Science.
+- 🌱 I’m currently learning more about **Artificial Intelligence** and **Data Science** and enthusiastic about applying my knowledge into real world applications.
 
 - 📝 I also write articles on [Medium](https://medium.com/@abdullahimranarshad)
 
