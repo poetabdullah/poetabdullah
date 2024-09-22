@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **abdullahimranarshad@gmail.com**
 
-<h3><b>Area of Expertise:</b>/h3>
+<h3><b>Area of Expertise:</b></h3>
 
 - Data Analysis and Visualization
 - Machine Learning and AI
