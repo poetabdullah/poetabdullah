@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah Imran</h1>
+<h1 align="center">Hi, I'm Abdullah Imran</h1>
 <h3 align="center">A passionate IT student who loves Data Analytics and Machine Learning</h3>
 
 <p align="left"> <a href="https://twitter.com/AbdulaImran" target="blank"><img src="https://img.shields.io/twitter/follow/AbdulaImran?logo=twitter&style=for-the-badge" alt="abdulaimran" /></a> </p>
