@@ -22,11 +22,11 @@
 
 **1. Data Analysis Portfolio Project**
 Processed 85,000+ COVID-19 records using advanced SQL and Python techniques, including data cleaning, transformation, and visualizations. Created a Tableau dashboard revealing a 2.11% global death rate, Europe’s highest mortality (1M+ deaths), and the US’s highest infection rates (8.93% current, 19.11% projected).
-[Data Analysis Portfolio Project](https://github.com/poetabdullah/Data-Analysis-Portfolio-Project.git)
+<br>[Data Analysis Portfolio Project](https://github.com/poetabdullah/Data-Analysis-Portfolio-Project.git)</br>
 
 **2. Paper Defect Detection and Classification**
 Developed machine learning models using Scikit-Learn on a 1,500+ image dataset, achieving up to 99% accuracy in detecting paper defects with advanced computer vision techniques like HOG and Canny edge detection. Enhanced defect detection by 8% through data augmentation and improved model performance by addressing class imbalance with SMOTE and RUS.
-[Paper Defect Detection and Classification](https://github.com/poetabdullah/Paper-Defect-Detection-and-Classification.git)
+<br>[Paper Defect Detection and Classification](https://github.com/poetabdullah/Paper-Defect-Detection-and-Classification.git)</br>
 
 **3. Airport Database Management System**
 Designed and implemented an Airport Management System database in Microsoft SQL Server, featuring 15+ 3NF normalized tables, an ERD, and role-based access control for 4 user types. Developed 5 stored procedures, triggers, and complex SQL views to automate tasks like luggage checks and flight delay notifications. Implemented a robust backup and recovery strategy with full, differential, and transactional backups, achieving a 6-hour RTO. Additionally, optimized performance through clustered and non-clustered indexing.
