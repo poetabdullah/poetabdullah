@@ -49,4 +49,4 @@ Designed and implemented an Airport Management System database in Microsoft SQL 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poetabdullah&show_icons=true&locale=en&layout=compact" alt="poetabdullah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poetabdullah&" alt="poetabdullah" /></p>
+
