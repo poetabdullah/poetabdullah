@@ -16,7 +16,7 @@
 - Python (NumPy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow), SQL (Views, CTEs, subqueries, procedures, aggregate & and window functions)
 - Feature Engineering and Data Preprocessing
 - Model Evaluation and Optimization
-- Web Development (HTML, CSS, Bootstrap, JavaScript)
+- Web Development (HTML, CSS, Bootstrap, JavaScript, React, Django)
 
 <h3><b>Key Projects:</b></h3>
 
