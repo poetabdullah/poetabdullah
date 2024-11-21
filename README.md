@@ -22,7 +22,7 @@
 
 <br>**1. Cross-Domain Data Analysis: COVID-19, Housing & Movies**</br>
 Processed 85,000+ COVID-19 records using advanced SQL and Python techniques, including data cleaning, transformation, and visualizations. Created a Tableau dashboard revealing a 2.11% global death rate, Europe’s highest mortality (1M+ deaths), and the US’s highest infection rates (8.93% current, 19.11% projected).
-<br>[Cross-Domain Data Analysis: COVID-19, Housing & Movies]([https://github.com/poetabdullah/Data-Analysis-Portfolio-Project.git](https://github.com/poetabdullah/Cross-Domain-Data-Analysis-COVID-19-Housing-Movies.git))</br>
+<br>[Cross-Domain Data Analysis: COVID-19, Housing & Movies](https://github.com/poetabdullah/Cross-Domain-Data-Analysis-COVID-19-Housing-Movies.git)</br>
 
 <br>**2. Paper Defect Detection and Classification**</br>
 Developed machine learning models using Scikit-Learn on a 1,500+ image dataset, achieving up to 99% accuracy in detecting paper defects with advanced computer vision techniques like HOG and Canny edge detection. Enhanced defect detection by 8% through data augmentation and improved model performance by addressing class imbalance with SMOTE and RUS.
