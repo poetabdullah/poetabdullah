@@ -30,7 +30,7 @@ Developed machine learning models using Scikit-Learn on a 1,500+ image dataset, 
 
 <br>**3. Airport Database Management System**</br>
 Designed and implemented an Airport Management System database in Microsoft SQL Server, featuring 15+ 3NF normalized tables, an ERD, and role-based access control for 4 user types. Developed 5 stored procedures, triggers, and complex SQL views to automate tasks like luggage checks and flight delay notifications. Implemented a robust backup and recovery strategy with full, differential, and transactional backups, achieving a 6-hour RTO. Additionally, optimized performance through clustered and non-clustered indexing.
-<br>[Airport Database Project](https://github.com/poetabdullah/Airport-Database-Project.git)
+<br>[Airport Database Management System](https://github.com/poetabdullah/Airport-Database-Management-System.git)
 </br>
 
 
