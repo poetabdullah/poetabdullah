@@ -1,37 +1,42 @@
-<h1 align="center">Hi, I'm Abdullah Imran</h1>
-<h3 align="center">A passionate IT student who loves Data Analytics and Machine Learning</h3>
+<h1 align="center">Hi, I'm Abdullah Imran 👋</h1>
+<h3 align="center">Building AI-powered tools with Python, SQL, and TensorFlow</h3>
 
-<p align="left"> <a href="https://twitter.com/AbdulaImran" target="blank"><img src="https://img.shields.io/twitter/follow/AbdulaImran?logo=twitter&style=for-the-badge" alt="abdulaimran" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/AbdulaImran" target="blank">
+    <img src="https://img.shields.io/twitter/follow/AbdulaImran?logo=twitter&style=for-the-badge" alt="abdulaimran" />
+  </a> 
+</p>
 
-- 🌱 I’m currently learning more about **Artificial Intelligence** and **Data Science** and enthusiastic about applying my knowledge into real world applications.
+- 🌱 Currently exploring advanced **Machine Learning** & **AI deployment** strategies.  
+- 🚀 Passionate about turning raw data into **scalable, real-world AI solutions**.  
+- 📝 I share insights on [Medium](https://medium.com/@abdullahimranarshad)  
+- 📫 Reach me at **abdullahimranarshad@gmail.com**
 
-- 📝 I also write articles on [Medium](https://medium.com/@abdullahimranarshad)
+---
 
-- 📫 You can reach me at **abdullahimranarshad@gmail.com**
+<h3><b>⚡ Areas of Expertise</b></h3>
 
-<h3><b>Area of Expertise:</b></h3>
+- Machine Learning & AI (TensorFlow, Keras, Scikit-Learn, NLTK)  
+- Data Analysis & Visualization (Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau)  
+- SQL (Views, CTEs, Procedures, Aggregates, Window Functions, Optimization)  
+- Feature Engineering & Model Optimization 
+- Web Development (React, Django, JavaScript, HTML/CSS/Bootstrap, GCP, AWS, Firebase NoSQL)  
 
-- Data Analysis and Visualization
-- Machine Learning and AI
-- Python (NumPy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow), SQL (Views, CTEs, subqueries, procedures, aggregate & and window functions)
-- Feature Engineering and Data Preprocessing
-- Model Evaluation and Optimization
-- Web Development (HTML, CSS, Bootstrap, JavaScript, React, Django)
+---
 
-<h3><b>Key Projects:</b></h3>
+<h3><b>🚀 Featured Projects</b></h3>
 
-<br>**1. Cross-Domain Data Analysis: COVID-19, Housing & Movies**</br>
-Processed 85,000+ COVID-19 records using advanced SQL and Python techniques, including data cleaning, transformation, and visualizations. Created a Tableau dashboard revealing a 2.11% global death rate, Europe’s highest mortality (1M+ deaths), and the US’s highest infection rates (8.93% current, 19.11% projected).
-<br>[Cross-Domain Data Analysis: COVID-19, Housing & Movies](https://github.com/poetabdullah/Cross-Domain-Data-Analysis-COVID-19-Housing-Movies.git)</br>
+<br>**1. Theramind – AI-Powered Mental Health Platform**</br>  
+Developed a **React + Django full stack web app** with AI-powered moderation for mental health content on fine-tuned Gemini model. Integrated **fine-tuned SBERT + 1D-CNN models** for classification, achieving 97% accuracy. Built REST APIs for role-based submissions, Firebase integration, and real-time validation of articles and patient stories.  
+<br>[Theramind – AI-Powered Mental Health Platform](https://github.com/poetabdullah/theramind.git)</br>
 
-<br>**2. Paper Defect Detection and Classification**</br>
-Developed machine learning models using Scikit-Learn on a 1,500+ image dataset, achieving up to 99% accuracy in detecting paper defects with advanced computer vision techniques like HOG and Canny edge detection. Enhanced defect detection by 8% through data augmentation and improved model performance by addressing class imbalance with SMOTE and RUS.
-<br>[Paper Defect Detection and Classification](https://github.com/poetabdullah/Paper-Defect-Detection-and-Classification.git)</br>
+<br>**2. Cross-Domain Data Analysis: COVID-19, Housing & Movies**</br>  
+Processed **85,000+ records** using SQL + Python for multi-domain insights. Built Tableau dashboards showing COVID-19 trends (2.11% global death rate, Europe’s highest mortality, US’s highest infection rates). Demonstrated strong **ETL, analytics, and visualization** capabilities across datasets.  
+<br>[Cross-Domain Data Analysis](https://github.com/poetabdullah/Cross-Domain-Data-Analysis-COVID-19-Housing-Movies.git)</br>
 
-<br>**3. Airport Database Management System**</br>
-Designed and implemented an Airport Management System database in Microsoft SQL Server, featuring 15+ 3NF normalized tables, an ERD, and role-based access control for 4 user types. Developed 5 stored procedures, triggers, and complex SQL views to automate tasks like luggage checks and flight delay notifications. Implemented a robust backup and recovery strategy with full, differential, and transactional backups, achieving a 6-hour RTO. Additionally, optimized performance through clustered and non-clustered indexing.
-<br>[Airport Database Management System](https://github.com/poetabdullah/Airport-Database-Management-System.git)
-</br>
+<br>**3. Paper Defect Detection and Classification**</br>  
+Applied **computer vision + ML** on 1,500+ images to detect and classify defects with **99% accuracy**. Used HOG, Canny edge detection, SMOTE, and RUS for better performance. Improved detection rate by 8% via data augmentation and **imbalanced learning strategies**.  
+<br>[Paper Defect Detection](https://github.com/poetabdullah/Paper-Defect-Detection-and-Classification.git)</br>
 
 
 
