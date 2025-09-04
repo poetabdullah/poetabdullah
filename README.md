@@ -1,9 +1,34 @@
 <h1 align="center">Hi, I'm Abdullah Imran 👋</h1>
 <h3 align="center">Building AI-powered tools with Python, SQL, and TensorFlow</h3>
 
-# 💫 About Me:
-- 🌱 Currently exploring advanced **Machine Learning** & **AI deployment** strategies.  <br>- 🚀 Passionate about turning raw data into **scalable, real-world AI solutions**.  <br>- 📝 I share insights on [Medium](https://medium.com/@abdullahimranarshad)  <br>- 📫 Reach me at **abdullahimranarshad@gmail.com**<br><br>---<br><br><h3><b>⚡ Areas of Expertise</b></h3><br><br>- Machine Learning & AI (TensorFlow, Keras, Scikit-Learn, NLTK)  <br>- Data Analysis & Visualization (Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau)  <br>- SQL (Views, CTEs, Procedures, Aggregates, Window Functions, Optimization)  <br>- Feature Engineering & Model Optimization <br>- Web Development (React, Django, JavaScript, HTML/CSS/Bootstrap, GCP, AWS, Firebase NoSQL)  <br><br>---<br><br><h3><b>🚀 Featured Projects</b></h3><br><br><br>**1. Theramind – AI-Powered Mental Health Platform**</br>  <br>Developed a **React + Django full stack web app** with AI-powered moderation for mental health content on fine-tuned Gemini model. Integrated **fine-tuned SBERT + 1D-CNN models** for classification, achieving 97% accuracy. Built REST APIs for role-based submissions, Firebase integration, and real-time validation of articles and patient stories.  <br><br>[Theramind – AI-Powered Mental Health Platform](https://github.com/poetabdullah/theramind.git)</br><br><br><br>**2. Cross-Domain Data Analysis: COVID-19, Housing & Movies**</br>  <br>Processed **85,000+ records** using SQL + Python for multi-domain insights. Built Tableau dashboards showing COVID-19 trends (2.11% global death rate, Europe’s highest mortality, US’s highest infection rates). Demonstrated strong **ETL, analytics, and visualization** capabilities across datasets.  <br><br>[Cross-Domain Data Analysis](https://github.com/poetabdullah/Cross-Domain-Data-Analysis-COVID-19-Housing-Movies.git)</br><br><br><br>**3. Paper Defect Detection and Classification**</br>  <br>Applied **computer vision + ML** on 1,500+ images to detect and classify defects with **99% accuracy**. Used HOG, Canny edge detection, SMOTE, and RUS for better performance. Improved detection rate by 8% via data augmentation and **imbalanced learning strategies**.  <br><br>[Paper Defect Detection](https://github.com/poetabdullah/Paper-Defect-Detection-and-Classification.git)</br><br>
+- 🌱 Currently exploring advanced **Machine Learning** & **AI deployment** strategies.  
+- 🚀 Passionate about turning raw data into **scalable, real-world AI solutions**.  
+- 📝 I build models on [Hugging Face](https://huggingface.co/spaces/AbdullahImran)  
+- 📫 Reach me at **abdullahimranarshad@gmail.com**
 
+<h3><b>⚡ Areas of Expertise</b></h3>
+
+- Machine Learning & AI (TensorFlow, Keras, Scikit-Learn, NLTK)  
+- Data Analysis & Visualization (Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau)  
+- SQL (Views, CTEs, Procedures, Aggregates, Window Functions, Optimization)  
+- Feature Engineering & Model Optimization 
+- Web Development (React, Django, JavaScript, HTML/CSS/Bootstrap, GCP, AWS, Firebase NoSQL)  
+
+---
+
+<h3><b>🚀 Featured Projects</b></h3>
+
+<br>**1. Theramind – AI-Powered Mental Health Platform**</br>  
+Developed a **React + Django full stack web app** with AI-powered moderation for mental health content on fine-tuned Gemini model. Integrated **fine-tuned SBERT + 1D-CNN models** for classification, achieving 97% accuracy. Built REST APIs for role-based submissions, Firebase integration, and real-time validation of articles and patient stories.  
+<br>[Theramind – AI-Powered Mental Health Platform](https://github.com/poetabdullah/theramind.git)</br>
+
+<br>**2. Cross-Domain Data Analysis: COVID-19, Housing & Movies**</br>  
+Processed **85,000+ records** using SQL + Python for multi-domain insights. Built Tableau dashboards showing COVID-19 trends (2.11% global death rate, Europe’s highest mortality, US’s highest infection rates). Demonstrated strong **ETL, analytics, and visualization** capabilities across datasets.  
+<br>[Cross-Domain Data Analysis](https://github.com/poetabdullah/Cross-Domain-Data-Analysis-COVID-19-Housing-Movies.git)</br>
+
+<br>**3. Paper Defect Detection and Classification**</br>  
+Applied **computer vision + ML** on 1,500+ images to detect and classify defects with **99% accuracy**. Used HOG, Canny edge detection, SMOTE, and RUS for better performance. Improved detection rate by 8% via data augmentation and **imbalanced learning strategies**.  
+<br>[Paper Defect Detection](https://github.com/poetabdullah/Paper-Defect-Detection-and-Classification.git)</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah--imran/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbdulaImran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahimranarshad@gmail.com) 
